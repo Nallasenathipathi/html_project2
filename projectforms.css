@@ -1,0 +1,38 @@
+form{
+    border: 2px solid   black;
+    border-radius: 20px;
+    width: 30%;
+    position: relative;
+    top: 100px;
+    left: 37%;
+    background-color: rgba(143, 214, 35, .5);
+
+}
+table{
+    margin: 0 10px 7% 7%;
+}   
+h1,.submit{
+    text-align: center;
+}
+input,label,select{
+    margin: 5px;
+    font-size: 18px;
+}
+select{
+    width: 95%;
+    height:25px;
+}
+.submit{
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+#submit1{
+    height: 30px;
+    width: 50%;
+}
+ body{
+    background-image: url(image/bg1.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
